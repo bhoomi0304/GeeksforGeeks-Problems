@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
-
+//The INT_MIN maethod present in limits
 int main() {
 	//code
 	int a[5];
