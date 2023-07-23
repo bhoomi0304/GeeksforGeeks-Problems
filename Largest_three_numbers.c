@@ -2,7 +2,7 @@
 #include <limits.h>
 
 int main() {
-	//code
+	
 	int a[5];
 	int first=INT_MIN,second=INT_MIN,third=INT_MIN;
 	for(int i=0;i<5;i++){
